@@ -12,4 +12,5 @@ A Java NIO network server using non-blocking IO all the way through, an overall 
 2) mvn package
 3) bin/start.sh
 
+# Other
 the file 'src/test/java/com/wolfit/selector_threads/AppTest.java' will show you how to code a client app to communicate with the server.
